@@ -1,0 +1,35 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.h1{
+    font-weight: bold;
+    padding-top: 100px;
+    padding-left: 100px;
+
+}
+
+.list{
+    padding-left: 150px;
+}
+
+.list .item{
+    font-size: 18px;
+    font-style: italic;
+}
+
+.h3{
+    font-weight: bold;
+    background-color: blueviolet;
+    color: white;
+    width: 500px;
+}
+
+.h4{
+    font-weight: bold;
+    background-color:rgba(0, 130, 130, 0.78);
+    color: white;
+    width: 500px;
+}
+
+
