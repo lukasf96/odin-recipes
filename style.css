@@ -1,21 +1,55 @@
 *{
     font-family: Arial, Helvetica, sans-serif;
+    /* border: 1px solid red; */
+}
+
+.body{
+    background-color: white;
+}
+
+.container{
+    width: 768px;
+    margin: 100px auto;
+    background-color: rgb(241, 241, 241);
+    padding: 100px 200px 100px 200px;
+    border: 2px solid rgb(218, 218, 218);
+}
+
+.title {
+    text-align: center;
+}
+
+.img{
+    width: 100px;
+    height: auto;
+    margin: 0 auto;
+}
+.recipes {
+
 }
 
 .h1{
     font-weight: bold;
-    padding-top: 100px;
-    padding-left: 100px;
-
+    text-transform: uppercase;
+    padding: 10px;
+    font-size: 40px;
 }
 
 .list{
-    padding-left: 150px;
+    text-align: center;
+    margin-left: -30px;
 }
 
 .list .item{
     font-size: 18px;
-    font-style: italic;
+    font-style: normal;
+    color: black;
+    width: 300px;
+    margin: 10px auto;
+    background-color: rgb(255, 255, 255);
+    border: 1px solid rgb(163, 163, 163);
+    padding: 5px;
+    list-style-type: none;
 }
 
 .h3{
